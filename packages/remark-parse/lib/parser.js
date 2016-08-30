@@ -122,6 +122,7 @@ proto.inlineTokenizers = {
   link: require('./tokenize/link'),
   reference: require('./tokenize/reference'),
   strong: require('./tokenize/strong'),
+  math: require('./tokenize/math'),
   emphasis: require('./tokenize/emphasis'),
   deletion: require('./tokenize/delete'),
   code: require('./tokenize/code-inline'),
