@@ -123,6 +123,7 @@ proto.inlineTokenizers = {
   reference: require('./tokenize/reference'),
   strong: require('./tokenize/strong'),
   math: require('./tokenize/math'),
+  mention: require('./tokenize/mention'),
   emphasis: require('./tokenize/emphasis'),
   deletion: require('./tokenize/delete'),
   code: require('./tokenize/code-inline'),
