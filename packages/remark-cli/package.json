@@ -1,5 +1,5 @@
 {
-  "name": "remark-cli",
+  "name": "@mizchi/remark-cli",
   "version": "4.0.0",
   "description": "CLI to process markdown with remark using plugins",
   "license": "MIT",

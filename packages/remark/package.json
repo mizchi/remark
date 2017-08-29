@@ -1,5 +1,5 @@
 {
-  "name": "remark",
+  "name": "@mizchi/remark",
   "version": "8.0.0",
   "description": "Markdown processor powered by plugins",
   "license": "MIT",

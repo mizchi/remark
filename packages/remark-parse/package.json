@@ -1,5 +1,5 @@
 {
-  "name": "remark-parse",
+  "name": "@mizchi/remark-parse",
   "version": "4.0.0",
   "description": "Markdown parser for remark",
   "license": "MIT",
